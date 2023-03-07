@@ -1,0 +1,51 @@
+{
+  "title": "Jam and Jax's NPC Index: Firebrands",
+  "description": "description here",
+  "version": "0.01",
+  "packs": [
+    {
+      "label": "Jam and Jax Firebrands",
+      "type": "Actor",
+      "name": "firebrands",
+      "path": "/packs/firebrands.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Jam and Jax NPC Firebrand Abilities",
+      "type": "Item",
+      "name": "firebrand-items",
+      "path": "/packs/firebrand-items.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}   
+    }
+  ],
+  "url": "https://github.com/Jax-PF2/spc1ist5",
+  "manifest": "https://raw.githubusercontent.com/Jax-PF2/fir3br-nds/master/module.json",
+  "download": "https://github.com/Jax-PF2/fir3br-nds/archive/refs/heads/main.zip",
+  "id": "jam-and-jax-npc-firebrands",
+  "authors": [
+    {
+      "name": "Jamzilla (Jamie Trollop) and Jax (Paul Steen)",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.7.4",
+          "verified": "4.8.1"
+        }
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "10.291",
+    "verified": "10.291"
+  }
+}
