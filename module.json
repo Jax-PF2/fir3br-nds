@@ -1,6 +1,6 @@
 {
   "title": "Jam and Jax's NPC Index: Firebrands",
-  "description": "description here",
+  "description": "A collection of NPC stat block featuring the Firebrands, a loose organization of daredevils, liberators, and fighters against injustice.",
   "version": "0.01",
   "packs": [
     {
@@ -22,7 +22,7 @@
       "flags": {}   
     }
   ],
-  "url": "https://github.com/Jax-PF2/spc1ist5",
+  "url": "https://github.com/Jax-PF2/firbr-nds",
   "manifest": "https://raw.githubusercontent.com/Jax-PF2/fir3br-nds/master/module.json",
   "download": "https://github.com/Jax-PF2/fir3br-nds/archive/refs/heads/main.zip",
   "id": "jam-and-jax-npc-firebrands",
@@ -38,8 +38,8 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "4.7.4",
-          "verified": "4.8.1"
+          "minimum": "4.10.1",
+          "verified": "4.10.1"
         }
       }
     ]
