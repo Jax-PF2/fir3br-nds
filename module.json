@@ -4,7 +4,7 @@
   "version": "0.01",
   "packs": [
     {
-      "label": "Jam and Jax Firebrands",
+      "label": "Jam and Jax NPC Firebrands",
       "type": "Actor",
       "name": "firebrands",
       "path": "/packs/firebrands.db",
